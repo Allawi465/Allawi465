@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="170"/>
+  <img src="https://media.giphy.com/media/5y2eVoALVlx1zpbjWa/giphy.gif" width="170"/>
 </div>
 
 <div id="badges" align="center"
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="300" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
@@ -46,3 +46,9 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Allawi465)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allawi465&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: portfolio :
