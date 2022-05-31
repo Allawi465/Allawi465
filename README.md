@@ -32,7 +32,7 @@
 
 - :telescope: I’m working as customer care at Shibested and studying Front-end development at Noroff.
 
-- :zap: In my free time, I code and solve problems to get even better.
+- :zap: In my free time, I code and solve problems to get even better at coding.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Allawi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-allawi-89830621a/)
 ### :hammer_and_wrench: Languages and Tools :
