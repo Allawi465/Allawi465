@@ -30,7 +30,7 @@
 
 - I am a Front-end web development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
-- :telescope: I’m working as customer care at Shibested and studying Front-end development at Noroff.
+- :telescope: I’m working as customer care at Schibsted and studying Front-end development at Noroff.
 
 - :zap: In my free time, I code and solve problems to get even better at coding.
 
