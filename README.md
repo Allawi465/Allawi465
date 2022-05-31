@@ -27,10 +27,10 @@
 </div>
 
 ### :man_technologist: About Me :
-- I am a Front-end web development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- I am a Front-end web development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
+
+- :telescope: I’m working as customer care at Shibested and studying Front-end development at Noroff.
 
 - :zap: In my free time, I code and solve problems to get even better.
 
