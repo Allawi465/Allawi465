@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-- I am a Front-end web development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
+- I am a Front-end web development student from Norway.
 
 - :telescope: I’m working as customer care at Schibsted and studying Front-end development at Noroff.
 
