@@ -25,22 +25,6 @@
   <img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="300" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-
-- I am a Front-end web development student from Norway.
-
-- :telescope: I’m working as customer care at Schibsted and studying Front-end development at Noroff.
-
-- :zap: In my free time, I code and solve problems to get even better at coding.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Allawi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-allawi-89830621a/)
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
 
 ### :fire: My Stats :
 
