@@ -34,7 +34,7 @@
 ### Here are some of the technologies I have worked with:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,react,nextjs,ts,bootstrap,tailwind,wordpress,netlify,jest,cypress,figma,postman,prisma,vscode " />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,react,nextjs,ts,bootstrap,tailwind,wordpress,netlify,jest,figma,postman, " />
   </a>
 </p>
 
