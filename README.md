@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 - I am a 25-year-old Front-end web development from Oslo, Norway.
-- :telescope: I’m working as a freelancer and contributing to frontend for building web applications.
+- :telescope: I’m working as a freelancer.
 - :airplane: In my free time, I love to travel and explore different places.
 - :zap: Coding has become a significant part of my life, as I strive to enhance my skills and become a better developer.
 
